@@ -1,0 +1,62 @@
+As of my start in the program (Fall 2018), I have narrowed down to three possible depths: CP/Robotics, Machine Learning, and Interactive Intelligence.
+Below are possible course plans for both, with classes is no particular order, but with less time consuming classes paired up a few quarters
+One class (ECE 253: Image Processing) will hopefully transfer in from UCSD, more on this in late September 2018. This means 9 classes are to be completed
+Goal is to complete the program by end of 2020
+
+Courses I am interested in(30+ courses offered by OMSCS, below are just the ones I am interested in taking):
+
+1. Computational Photography
+2. Computer Vision
+3. Artificial Intelligence
+4. Human Computer Interaction
+5. Knowledge Based AI
+6. Machine Learning
+7. Reinforcement Learning
+8. Machine Learning for Trading
+9. AI for Robotics
+10. Graduate Algorithms (meh, but required for both specializations)
+11. Data and Visual Analytics
+
+Courses I might be interested in:
+
+12. Computer Networks
+13. Software Development Process
+
+Machine Learning Depth Sample Course Layout <Weekly Commitment, Difficulty>
+
+FA18 --> KBAI<13.3, 3.23/5> || CN<7.87, 2.5/5>
+SP19 --> (ML4T<10.4, 2.57/5> && (CN<7.87, 2.5/5> || SDP<8.91, 2.39>)) || (KBAI<13.3, 3.23/5> && (CN<7.87, 2.5/5> || SDP<8.91, 2.39>)) --> Two of these, not KBAI and MLT4 together
+SU19 --> AI4R<12.2, 3.13/5> || HCI<10.48, 2.6/5> || CN<7.87, 2.5/5> || SDP<8.91, 2.39> || ML4T<10.4, 2.57/5>
+FA19 --> ML<20.74, 4.26/5>
+SP20 --> RL<21.46, 4/5>
+SU20 --> AI4R<12.2, 3.13/5> || HCI<10.48, 2.6/5> || CN<7.87, 2.5/5> || SDP<8.91, 2.39> || ML4T<10.4, 2.57/5>
+FA20 --> GA<21.35, 4.2/5>
+SP21 --> DVA<12.69, 2.87/5>
+
+CP/Robotics Depth Sample Course Layout <Weekly Commitment, Difficulty>
+
+FA18 --> KBAI<13.3, 3.23/5> || CN<7.87, 2.5/5>
+SP19 --> (ML4T<10.4, 2.57/5> && (CN<7.87, 2.5/5> || SDP<8.91, 2.39>)) || (KBAI<13.3, 3.23/5> && (CN<7.87, 2.5/5> || SDP<8.91, 2.39>)) --> Two of these, not KBAI and MLT4 together
+SU19 --> AI4R<12.2, 3.13/5> || HCI<10.48, 2.6/5> || CN<7.87, 2.5/5> || SDP<8.91, 2.39> || ML4T<10.4, 2.57/5>
+FA19 --> ML<20.74, 4.26/5> || AI<22.84, 4.3/5>
+SP20 --> (CP<12.08. 2.87/5> && (CN<7.87, 2.5/5> || SDP<8.91, 2.39>))
+SU20 --> AI4R<12.2, 3.13/5> || HCI<10.48, 2.6/5> || CN<7.87, 2.5/5> || SDP<8.91, 2.39> || ML4T<10.4, 2.57/5>
+FA20 --> GA<21.35, 4.2/5>
+SP21 --> CV<20.2, 4.01/5>
+
+Interactive Intelligence Depth Sample Course Layout <Weekly Commitment, Difficulty>
+*This one makes you take Intro to Health Informatics or Ed Tech, so sub those in for CN somewhere instead
+
+FA18 --> KBAI<13.3, 3.23/5> || IHI<6, 1.979/5>
+SP19 --> (ML4T<10.4, 2.57/5> && (IHI<6, 1.979/5> || SDP<8.91, 2.39>)) || (KBAI<13.3, 3.23/5> && (IHI<6, 1.979/5> || SDP<8.91, 2.39>)) --> Two of these, not KBAI and MLT4 together
+SU19 --> AI4R<12.2, 3.13/5> || HCI<10.48, 2.6/5> || IHI<6, 1.979/5> || SDP<8.91, 2.39> || ML4T<10.4, 2.57/5>
+FA19 --> ML<20.74, 4.26/5> || AI<22.84, 4.3/5>
+SP20 --> (ED<12.08. 2.87/5> && (IHI<6, 1.979/5> || SDP<8.91, 2.39>))
+SU20 --> AI4R<12.2, 3.13/5> || HCI<10.48, 2.6/5> || IHI<6, 1.979/5> || SDP<8.91, 2.39> || ML4T<10.4, 2.57/5>
+FA20 --> 
+SP21 --> 
+
+
+
+
+
